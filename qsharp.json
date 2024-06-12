@@ -1,0 +1,17 @@
+{
+    "author":"Moi meme",
+    "lints": [
+        {
+          "lint": "needlessParens",
+          "level": "allow"
+        },
+        {
+          "lint": "redundantSemicolons",
+          "level": "warn"
+        },
+        {
+          "lint": "divisionByZero",
+          "level": "error"
+        }
+      ]
+}
